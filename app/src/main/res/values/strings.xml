@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginUi</string>
+    <string name="facebook">Login with Facebook</string>
+    <string name="twitter">Login with Twitter</string>
+</resources>
